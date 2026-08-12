@@ -1,0 +1,6 @@
+{
+  "name": "Oder Earning",
+  "description": "Affiliate marketplace order rewards, admin link management, verified payout processing, and customer support ticket portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
